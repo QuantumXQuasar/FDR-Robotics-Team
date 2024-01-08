@@ -1,2 +1,6 @@
 # FDR-Robotics-Team
-### [rules and stuff]([Gofundme](https://www.kipr.org/botball)https://www.kipr.org/botball)
+* [rules](https://www.kipr.org/botball)
+* [hardware]()
+* [software]()
+* [map(yet unavailable)]()
+* [drawings]()
