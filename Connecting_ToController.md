@@ -1,4 +1,4 @@
-# step by step
+# How To Connect The Computer To the Controller Of The Wombat?
 * Turn on the controller by flipping the switch next to the battery plug. Make sure the battery is charged.
 * When the Wombat controller turns on. On the controller go to settings --> advanced --> Network.
 * Open your laptop and connect to the wombat's wifi. The username is next to "SSID" password is next to "Password."
